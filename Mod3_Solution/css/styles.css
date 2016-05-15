@@ -1,0 +1,49 @@
+.navbar-brand h1 { /* Restaurant name */
+  font-size: 1.5em;
+  margin-top: 0;
+  margin-bottom: 0;
+  line-height: .75;
+}
+
+.navbar-brand {
+  padding-top: 15px;
+}
+
+.page-title
+{
+    margin-bottom: 20px;
+}
+
+.section-title
+{
+    font-weight: bold;
+    font-size: 1.75em;
+}
+
+.long-column
+{
+    background: lightblue;
+}
+
+#nav-list
+{
+    font-size: 1.5em;
+    margin:0px;
+}
+
+.nav-list-item
+{
+    border: 1px solid;
+    background: lightgreen;
+}
+
+#collapsable-nav
+{
+    padding: 0px;
+}
+
+@media (max-width: 768px) {
+    #content{
+        width:600px;
+    }
+}
